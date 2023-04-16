@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Hayatullahi
-
+- 🔭 I’m currently working on testing cyber-physical systems
+- 💬 Ask me about software engineering/testing
+- 
 <!--
 **hayattech1/hayattech1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
